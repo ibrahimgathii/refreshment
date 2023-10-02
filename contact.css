@@ -1,0 +1,15 @@
+*{
+    background-color: brown;
+}
+a {    
+    font-size: 1.9rem;
+    color: black;
+}
+.footer{
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
